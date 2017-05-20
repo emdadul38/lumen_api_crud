@@ -6,17 +6,17 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 Let's install all packages, by running this command from Terminal
 ````base
-	composer install
+composer install
 ````
 
 Migration install
 
 ```bash
-	composer migrate
+composer migrate
 ````
 
 And run the web server
-php -S localhost:8000 -t public
+```bash php -S localhost:8000 -t public ````
 
 
 ## Official Documentation
