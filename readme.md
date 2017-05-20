@@ -16,7 +16,9 @@ composer migrate
 ````
 
 And run the web server
-```bash php -S localhost:8000 -t public ````
+```bash 
+php -S localhost:8000 -t public 
+````
 
 
 ## Official Documentation
