@@ -27,4 +27,4 @@ Documentation for the framework can be found on the [Lumen website](http://lumen
 
 ## Author
 
-[Md. Emdadul Huq](http://www.emdadulhuq.blogger.com)
+[Md. Emdadul Huq](http://www.facebook.com/emdadul38)
